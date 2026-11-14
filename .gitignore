@@ -1,0 +1,8 @@
+# Do not commit compiled release packages or secrets to Git.
+*.exe
+*.nupkg
+*.pfx
+*.p12
+*.pem
+*.key
+*.env
